@@ -9,6 +9,7 @@ Checkout my <a target="_blank" href="https://jatinkmr.github.io/portfolio/">Prof
 [<img align="left" alt="facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />](https://www.facebook.com/jatin.kamboj.37)
 [<img align="left" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/jatinkrkamboj)
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/ijatinkrkamb0j/)
+[<img align="left" alt="gmail" src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:kumar.jatin873@gmail.com)
 <br/>
 
 ## Love to Play
