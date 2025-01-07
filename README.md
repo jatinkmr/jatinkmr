@@ -1,4 +1,4 @@
-## Hi there [<img src="https://tenor.com/en-GB/view/waving-hello-gif-11328340" />]
+## Hi there 👋
 
 I'm a <strong>FullStack MERN Developer</strong>. And Currently working as <i>Software Developer</i> at <b>FirstCry(Brainbees Solutions Pvt. Ltd.)</b>
 
