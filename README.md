@@ -25,6 +25,7 @@ My love for coding is rivaled only by my obsession with coffee—because let's b
 - I talk to my code like it’s my pet. 🐶 (It listens sometimes.)
 - My idea of debugging is staring intensely at my screen until the bug confesses. 🕵️‍♂️
 - I measure productivity by the number of coffee cups consumed. ☕📊
+- When I’m not coding, I enjoy cooking and experimenting with new recipes. 🍳👨‍🍳
 
 ##
 ## 💬 Let's Connect!
@@ -35,14 +36,14 @@ My love for coding is rivaled only by my obsession with coffee—because let's b
   <a href="https://www.facebook.com/jatin.kamboj.37" target="_blank">
     <img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
   </a>
-  <a href="https://twitter.com/jatinkrkamboj" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  <a href="https://x.com/jatinkrkamboj" target="_blank">
+    <img alt="X" src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" />
   </a>
   <a href="https://www.instagram.com/ijatinkrkamb0j/" target="_blank">
     <img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
   <a href="mailto:kumar.jatin873@gmail.com" target="_blank">
-    <img alt="Email" src="https://img.shields.io/badge/email%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img alt="Email" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
 <br/>
