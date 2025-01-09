@@ -1,11 +1,10 @@
-<h1>
+<h1 align="center">
   🤠 Howdy! <img src="https://raw.githubusercontent.com/himanshusharma89/himanshusharma89/master/Hi.gif" width="25px">! I'm <a href="">ﾌ卂ㄒ丨几</a> 🚀
 </h1>
 
 <h3>
   🧑‍💻 Full Stack Developer | Coffee Enthusiast ☕ | Bug Hunter 🐞
 </h3>
-
 Welcome to my GitHub profile!
 <br/>
 <br/>
@@ -18,14 +17,19 @@ My love for coding is rivaled only by my obsession with coffee—because let's b
 - 🚀 Develop scalable and performant web applications using MongoDB, Express.js, React, and Node.js.
 - 🛠️ Debug like Sherlock Holmes—minus the pipe and hat! 🔍
 - 📦 Build RESTful APIs, integrate third-party services, and optimize databases.
+- 🗃️ Design and optimize relational databases using **MySQL**, ensuring high performance and reliability.
+- ⚛️ Create dynamic, interactive, and responsive user interfaces with **ReactJS**, ensuring a seamless user experience.
+- 🌱 Build progressive and lightweight single-page applications using **VueJS** for a flexible front-end solution.
+- 🔧 Develop efficient, scalable, and maintainable back-end systems using **NestJS**, leveraging TypeScript for strong typing.
+- ☁️ Deploy, manage, and scale web applications on **AWS EC2 instances**, ensuring high availability and performance.
 
 ##
 ## 😎 Fun Facts About Me
-- My keyboard probably types npm install and git commit faster than anything else. ⌨️💨
-- I talk to my code like it’s my pet. 🐶 (It listens sometimes.)
-- My idea of debugging is staring intensely at my screen until the bug confesses. 🕵️‍♂️
-- I measure productivity by the number of coffee cups consumed. ☕📊
-- When I’m not coding, I enjoy cooking and experimenting with new recipes. 🍳👨‍🍳
+- 🔥 My keyboard probably types **npm install** and **git commit** faster than anything else. ⌨️💨
+- 💡 I talk to my **code** like it’s my pet. 🐶 (It listens sometimes.)
+- 🕵️‍♂️ My idea of **debugging** is staring intensely at my screen until the **bug confesses**.
+- ☕ I measure **productivity** by the number of **coffee cups** consumed. 📊
+- 🍳 When I’m **not coding**, I **enjoy cooking** and experimenting with new recipes. 👨‍🍳
 
 ##
 ## 💬 Let's Connect!
