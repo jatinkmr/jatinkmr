@@ -3,7 +3,7 @@
 </h1>
 
 <h3>
-  🧑‍💻 Full Stack Developer | Coffee Enthusiast ☕ | Bug Hunter 🐞
+  🧑‍💻 Full Stack Developer 🧑‍💻 | ☕ Coffee Enthusiast ☕ | 🐞 Bug Hunter 🐞
 </h3>
 Welcome to my GitHub profile!
 <br/>
