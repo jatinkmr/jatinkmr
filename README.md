@@ -1,40 +1,147 @@
-<div>
-  <div align="center"><img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" height="50%" width="100%"></div>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" height="50%" width="100%">
 </div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7E5&center=true&vCenter=true&random=false&width=435&lines=Full+Stack+Developer;MERN+Stack+Expert;Coffee+Enthusiast;Bug+Hunter" alt="Typing SVG" />
+</div>
+
 <h1 align="center">
-  🤠 Howdy! <img src="https://raw.githubusercontent.com/himanshusharma89/himanshusharma89/master/Hi.gif" width="25px">! I'm <a href="">ﾌ卂ㄒ丨几</a> 🚀
+  <img src="https://raw.githubusercontent.com/himanshusharma89/himanshusharma89/master/Hi.gif" width="30px"> I'm <a href="">ﾌ卂ㄒ丨几</a>
+  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h1>
 
-<h3>
-  🧑‍💻 Full Stack Developer 🧑‍💻 | ☕ Coffee Enthusiast ☕ | 🐞 Bug Hunter 🐞
-</h3>
-Welcome to my GitHub profile!
-<br/>
-<br/>
-I'm a passionate MERN Stack Developer who thrives on building scalable and efficient web applications.
-My love for coding is rivaled only by my obsession with coffee—because let's be honest, caffeine is the true MVP of every successful project! ☕😎
+<p align="center">
+  <a href="https://jatinkmr.github.io/portfolio/">
+    <img src="https://img.shields.io/badge/My_Portfolio-4CAF50?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio" />
+  </a>
+  <img src="https://img.shields.io/badge/Focus-Coding_Excellence-00C7FF?style=for-the-badge&logo=electron&logoColor=white" alt="Focus">
+  <img src="https://img.shields.io/badge/Lives_in-India-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
+</p>
 
-##
-## 🔧 What I Do?
+<hr>
+
+<div align="center">
+  <img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="380" />
+  
+  <h3>🧑‍💻 About Me</h3>
+  <p align="left">
+    I'm a passionate MERN Stack Developer who thrives on building scalable and efficient web applications. When I'm not coding, you'll find me exploring new coffee spots or debugging life's little mysteries!
+    <br><br>
+    💻 Currently building awesome web experiences<br>
+    🚀 Always exploring new technologies<br>
+    🌱 Learning something new every day<br>
+    ☕ Powered by premium coffee<br>
+    🐞 Finding and squashing bugs 24/7
+  </p>
+</div>
+
+
+## 🚀 What I Do?
+
+<div align="center">
+  <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+</div>
+
 - 🧑🏻‍💻 Craft clean, modular, and maintainable code.
-- 🚀 Develop scalable and performant web applications using MongoDB, Express.js, React, and Node.js.
+- 🚀 Develop scalable web applications using MongoDB, Express.js, React, and Node.js.
 - 🛠️ Debug like Sherlock Holmes—minus the pipe and hat! 🔍
 - 📦 Build RESTful APIs, integrate third-party services, and optimize databases.
-- 🗃️ Design and optimize relational databases using **MySQL**, ensuring high performance and reliability.
-- ⚛️ Create dynamic, interactive, and responsive user interfaces with **ReactJS**, ensuring a seamless user experience.
-- 🌱 Build progressive and lightweight single-page applications using **VueJS** for a flexible front-end solution.
-- 🔧 Develop efficient, scalable, and maintainable back-end systems using **NestJS**, leveraging TypeScript for strong typing.
-- ☁️ Deploy, manage, and scale web applications on **AWS EC2 instances**, ensuring high availability and performance.
+- 🗃️ Design and optimize relational databases using **MySQL**, ensuring high performance.
+- ⚛️ Create dynamic, interactive UIs with **ReactJS** for seamless user experiences.
+- 🌱 Build lightweight single-page applications using **VueJS** for flexible front-end solutions.
+- 🔧 Develop efficient back-end systems using **NestJS** with TypeScript.
+- ☁️ Deploy and scale applications on **AWS EC2 instances** for high availability.
 
-##
+<br>
+
+## 🛠️ Tech Stack & Tools
+
+<div align="center">
+  <table>
+    <tr>
+      <td valign="top" width="25%">
+        <h3 align="center">Frontend</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="25%">
+        <h3 align="center">Backend</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="25%">
+        <h3 align="center">Database</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="50" />
+        </div>
+      </td>
+      <td valign="top" width="25%">
+        <h3 align="center">DevOps & Tools</h3>
+        <div align="center">
+          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
+          <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="50" />
+          <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" height="50" />
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+## 🎮 Gaming Corner
+<div align="center">
+  <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tekken-FF0000?style=for-the-badge&logo=bandai-namco&logoColor=white" />
+  <img src="https://img.shields.io/badge/BGMI-FFC414?style=for-the-badge&logo=pubg&logoColor=black" />
+  <img src="https://img.shields.io/badge/Call_of_Duty-000000?style=for-the-badge&logo=activision&logoColor=white" />
+</div>
+
+<br>
+
 ## 😎 Fun Facts About Me
 - 🔥 My keyboard probably types **npm install** and **git commit** faster than anything else. ⌨️💨
-- 💡 I talk to my **code** like it’s my pet. 🐶 (It listens sometimes.)
+- 💡 I talk to my **code** like it's my pet. 🐶 (It listens sometimes.)
 - 🕵️‍♂️ My idea of **debugging** is staring intensely at my screen until the **bug confesses**.
 - ☕ I measure **productivity** by the number of **coffee cups** consumed. 📊
-- 🍳 When I’m **not coding**, I **enjoy cooking** and experimenting with new recipes. 👨‍🍳
+- 🍳 When I'm **not coding**, I **enjoy cooking** and experimenting with new recipes. 👨‍🍳
 
-##
+<div align="center">
+  <img src="https://media.giphy.com/media/KEG5UtvXUD7WPIhhuy/giphy.gif" width="250">
+</div>
+
+<br>
+
+## 📊 Coding Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkmr&layout=compact&theme=radical" alt="Top Languages">
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinkmr&theme=radical" width="100%">
+</div>
+
+<br>
+
 ## 💬 Let's Connect!
 <div align="center">
   <a href="https://www.linkedin.com/in/jatinkumarkamboj/" target="_blank">
@@ -56,50 +163,18 @@ My love for coding is rivaled only by my obsession with coffee—because let's b
     <img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=black" />
   </a>
 </div>
-<br/>
 
-##
-## 🎮 Love to Play
 <div align="center">
-  <img alt="playStation" src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
-</div>
-<br />
-
-##
-## 🛡️ Tech Stack I Work With
-<div align="center">
-  <img alt="NodeJS" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="ExpressJS" src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="NestJS" src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="VueJS" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img alt="BootStrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img alt="SQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="ReactStrap" src="https://img.shields.io/badge/Reactstrap-563D7C?style=for-the-badge&logo=reactstrap&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="SQLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img alt="NPM" src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" />
-  <img alt="PostMan" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img alt="Jira" src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" />
-  <img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="VsCode" src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img alt="Redis" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
+  <h3>💻 What I'm Currently Working On</h3>
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400">
+  <p>Building awesome MERN stack applications...</p>
 </div>
 
-##
-## 🌐 Check out my Portfolio
-<a target="_blank" href="https://jatinkmr.github.io/portfolio/">Portfolio Website</a>
+<div align="center">
+  <h3><img align="center" src="https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif" width="25"> Here's some humor for you:</h3>
+  <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card">
+</div>
 
-##
-## <img align ='center' src='https://media2.giphy.com/media/UQDSBzfyiBKvgFcSTw/giphy.gif?cid=ecf05e47p3cd513axbek3f56ti3jzizq8hincw20jauyyfyw&rid=giphy.gif' width ='29' /> Here's some humor for you:
-<img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width = '11000' />
-
-##
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
+</div>
