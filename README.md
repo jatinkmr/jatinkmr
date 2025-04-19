@@ -78,7 +78,6 @@
           <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
           <img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
-          <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
         </div>
       </td>
@@ -98,7 +97,6 @@
           <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
           <img src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
           <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
-          <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" height="50" />
           <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" height="50" />
         </div>
       </td>
