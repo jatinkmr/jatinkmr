@@ -41,17 +41,20 @@
 
 <div align="center">
   <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+
+  <p align="left">
+    🧑🏻‍💻 Craft clean, modular, and maintainable code.<br />
+    🚀 Develop scalable web applications using MongoDB, Express.js, React, and Node.js.<br />
+    🛠️ Debug like Sherlock Holmes—minus the pipe and hat! 🔍<br />
+    📦 Build RESTful APIs, integrate third-party services, and optimize databases.<br />
+    🗃️ Design and optimize relational databases using MySQL, ensuring high performance.<br />
+    ⚛️ Create dynamic, interactive UIs with ReactJS for seamless user experiences.<br />
+    🌱 Build lightweight single-page applications using VueJS for flexible front-end solutions.<br />
+    🔧 Develop efficient back-end systems using NestJS with TypeScript.<br />
+    ☁️ Deploy and scale applications on AWS EC2 instances for high availability.<br />
+  </p>
 </div>
 
-- 🧑🏻‍💻 Craft clean, modular, and maintainable code.
-- 🚀 Develop scalable web applications using MongoDB, Express.js, React, and Node.js.
-- 🛠️ Debug like Sherlock Holmes—minus the pipe and hat! 🔍
-- 📦 Build RESTful APIs, integrate third-party services, and optimize databases.
-- 🗃️ Design and optimize relational databases using **MySQL**, ensuring high performance.
-- ⚛️ Create dynamic, interactive UIs with **ReactJS** for seamless user experiences.
-- 🌱 Build lightweight single-page applications using **VueJS** for flexible front-end solutions.
-- 🔧 Develop efficient back-end systems using **NestJS** with TypeScript.
-- ☁️ Deploy and scale applications on **AWS EC2 instances** for high availability.
 
 <br>
 
