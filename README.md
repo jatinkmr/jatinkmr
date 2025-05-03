@@ -15,6 +15,9 @@
   <a href="https://jatinkmr.github.io/portfolio/">
     <img src="https://img.shields.io/badge/My_Portfolio-4CAF50?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio" />
   </a>
+  <a href="https://jatinkmr-dev.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio_V2-8E44AD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio V2" />
+  </a>
   <img src="https://img.shields.io/badge/Focus-Coding_Excellence-00C7FF?style=for-the-badge&logo=electron&logoColor=white" alt="Focus">
   <img src="https://img.shields.io/badge/Lives_in-India-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
 </p>
