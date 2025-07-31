@@ -144,6 +144,10 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinkmr&theme=radical" width="100%">
 </div>
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinkmr&theme=redical" alt="Activity Graph">
+</div>
+
 <br>
 
 ## 💬 Let's Connect!
