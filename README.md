@@ -148,6 +148,10 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=jatinkmr&theme=redical" alt="Activity Graph">
 </div>
 
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jatinkmr&theme=radical&hide_border=true" alt="GitHub Streak" />
+</div>
+
 <br>
 
 ## 💬 Let's Connect!
