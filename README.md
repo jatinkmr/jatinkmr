@@ -66,48 +66,53 @@
 <div align="center">
   <table>
     <tr>
-      <td valign="top" width="25%">
-        <h3 align="center">Frontend</h3>
-        <div align="center">
-          <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-          <img src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="50" />
-          <img src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />
-          <img src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
-          <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />
-          <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" />
-          <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" />
-        </div>
-      </td>
-      <td valign="top" width="25%">
-        <h3 align="center">Backend</h3>
-        <div align="center">
-          <img src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />
-          <img src="https://skillicons.dev/icons?i=express" alt="Express.js" height="50" />
-          <img src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" />
-          <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
-        </div>
-      </td>
-      <td valign="top" width="25%">
-        <h3 align="center">Database</h3>
-        <div align="center">
-          <img src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" />
-          <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" />
-          <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" />
-          <img src="https://profilinator.rishav.dev/skills-assets/redis-original-wordmark.svg" alt="Redis" height="50" />
-          <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" height="50" />
-        </div>
-      </td>
-      <td valign="top" width="25%">
-        <h3 align="center">DevOps & Tools</h3>
-        <div align="center">
-          <img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />
-          <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" />
-          <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" height="50" />
-          <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" height="50" />
-        </div>
-      </td>
+      <th>
+        <h3>🎨 Frontend</h3>
+      </th>
+      <th>
+        <h3>⚙️ Backend</h3>
+      </th>
+      <th>
+        <h3>🗄️ Database</h3>
+      </th>
+      <th>
+        <h3>🚀 DevOps & Tools</h3>
+      </th>
     </tr>
-  </table>
+   <tr>
+      <td width="25%" align="center">
+         <img src="https://skillicons.dev/icons?i=html,css" />
+         <br/><br/>
+         <img src="https://skillicons.dev/icons?i=react,vue" />
+         <br/><br/>
+         <img src="https://skillicons.dev/icons?i=js,bootstrap" />
+         <br/><br/>
+         <img src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="45" />
+      </td>
+      <td width="25%" align="center">
+         <img src="https://skillicons.dev/icons?i=nodejs,express" />
+         <br/><br/>
+         <img src="https://skillicons.dev/icons?i=nestjs,ts" />
+         <br/><br/>
+         <img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" />
+      </td>
+      <td width="25%" align="center">
+         <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+         <br/><br/>
+         <img src="https://skillicons.dev/icons?i=postgresql,redis" />
+         <br/><br/>
+         <img src="https://skillicons.dev/icons?i=sqlite" alt="Python" height="45" />
+      </td>
+      <td width="25%" align="center">
+         <img src="https://skillicons.dev/icons?i=git,aws" />
+         <br/><br/>
+         <img src="https://skillicons.dev/icons?i=docker,postman" />
+         <br/><br/>
+         <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" height="45" />
+         <img src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="45" />
+      </td>
+   </tr>
+</table>
 </div>
 
 <br>
