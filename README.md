@@ -123,6 +123,9 @@
   <img src="https://img.shields.io/badge/Tekken-FF0000?style=for-the-badge&logo=bandai-namco&logoColor=white" />
   <img src="https://img.shields.io/badge/BGMI-FFC414?style=for-the-badge&logo=pubg&logoColor=black" />
   <img src="https://img.shields.io/badge/Call_of_Duty-000000?style=for-the-badge&logo=activision&logoColor=white" />
+  <img src="https://img.shields.io/badge/Street_Fighter-000080?style=for-the-badge&logo=capcom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Dragon_Ball_FighterZ-FF4500?style=for-the-badge&logo=bandai-namco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Among_Us-47A0FF?style=for-the-badge&logo=among-us&logoColor=white" />
 </div>
 
 <br>
