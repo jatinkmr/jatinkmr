@@ -7,7 +7,7 @@
 </div>
 
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/himanshusharma89/himanshusharma89/master/Hi.gif" width="30px"> I'm <a href="">ﾌ卂ㄒ丨几</a>
+  <img src="https://jatinkmr.github.io/portfolio/images/Hi.gif" width="30px"> I'm <a href="">ﾌ卂ㄒ丨几</a>
   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40">
 </h1>
 
@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/My_Portfolio-4CAF50?style=for-the-badge&logo=files&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://jatinkmr-dev.netlify.app/">
-    <img src="https://img.shields.io/badge/Portfolio_V2-8E44AD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio V2" />
+    <img src="https://img.shields.io/badge/Portfolio_V2-8E44AD?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <img src="https://img.shields.io/badge/Focus-Coding_Excellence-00C7FF?style=for-the-badge&logo=electron&logoColor=white" alt="Focus">
   <img src="https://img.shields.io/badge/Lives_in-India-red?style=for-the-badge&logo=google-maps&logoColor=white" alt="Location">
@@ -39,7 +39,6 @@
   </p>
 </div>
 
-
 ## 🚀 What I Do?
 
 <div align="center">
@@ -57,7 +56,6 @@
     ☁️ Deploy and scale applications on AWS EC2 instances for high availability.<br />
   </p>
 </div>
-
 
 <br>
 
@@ -145,7 +143,8 @@
 
 ## 📊 Coding Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkmr&layout=compact&theme=radical" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=jatinkmr&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkmr&layout=compact&theme=radical" alt="Top Languages" width="48%">
 </div>
 
 <div align="center">
@@ -184,10 +183,12 @@
   </a>
 </div>
 
+<br>
+
 <div align="center">
   <h3>💻 What I'm Currently Working On</h3>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="400">
-  <p>Building awesome MERN stack applications...</p>
+  <p>Building awesome MERN stack applications and exploring the latest in web development...</p>
 </div>
 
 <div align="left" width="100%">
@@ -195,6 +196,12 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width="100%">
 </div>
 
+<br>
+
+<div align="center">
+  <h3>Thanks for visiting! 😊</h3>
+  <p>Happy coding! 🚀</p>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer" width="100%">
