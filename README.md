@@ -196,11 +196,9 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width="100%">
 </div>
 
-<br>
-
 <div align="center">
   <h3>Thanks for visiting! 😊</h3>
-  <p>Happy coding! 🚀</p>
+  <p>🚀 !Happy Coding! 🚀</p>
 </div>
 
 <div align="center">
