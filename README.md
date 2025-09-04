@@ -197,8 +197,14 @@
 </div>
 
 <div align="center">
-  <h3>Thanks for visiting! 😊</h3>
-  <p>🚀 !Happy Coding! 🚀</p>
+  <h3>
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+    Thanks for checking out my profile!
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+  </h3>
+  <p>🚀 Code with passion, debug with patience! 💻</p>
+  <p><em>Every line of code tells a story...</em></p>
+  <p>🤝 Let's connect and build the future together! 🚀</p>
 </div>
 
 <div align="center">
