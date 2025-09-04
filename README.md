@@ -203,8 +203,13 @@
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
   </h3>
   <p>🚀 Code with passion, debug with patience! 💻</p>
-  <p><em>Every line of code tells a story...</em></p>
+  <p>
+    <em>Every line of code tells a story...</em>
+  </p>
   <p>🤝 Let's connect and build the future together! 🚀</p>
+  <p>
+    <em>"Code is like coffee - it's better when it's fresh and strong!"</em>
+  </p>
 </div>
 
 <div align="center">
