@@ -124,6 +124,12 @@
   <img src="https://img.shields.io/badge/Street_Fighter-000080?style=for-the-badge&logo=capcom&logoColor=white" />
   <img src="https://img.shields.io/badge/Dragon_Ball_FighterZ-FF4500?style=for-the-badge&logo=bandai-namco&logoColor=white" />
   <img src="https://img.shields.io/badge/Among_Us-47A0FF?style=for-the-badge&logo=among-us&logoColor=white" />
+  <img src="https://img.shields.io/badge/Mortal_Kombat-000000?style=for-the-badge&logo=warnerbros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Fortnite-7C3AED?style=for-the-badge&logo=epicgames&logoColor=white" />
+  <img src="https://img.shields.io/badge/CS2-F7931E?style=for-the-badge&logo=counter-strike&logoColor=white" />
+  <img src="https://img.shields.io/badge/God_of_War-FF0000?style=for-the-badge&logo=playstation&logoColor=white" />
+  <img src="https://img.shields.io/badge/FIFA_24-00FF00?style=for-the-badge&logo=ea&logoColor=black" />
+  <img src="https://img.shields.io/badge/Need_for_Speed-FFD700?style=for-the-badge&logo=ea&logoColor=black" />
 </div>
 
 <br>
