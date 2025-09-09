@@ -130,6 +130,9 @@
   <img src="https://img.shields.io/badge/God_of_War-FF0000?style=for-the-badge&logo=playstation&logoColor=white" />
   <img src="https://img.shields.io/badge/FIFA_24-00FF00?style=for-the-badge&logo=ea&logoColor=black" />
   <img src="https://img.shields.io/badge/Need_for_Speed-FFD700?style=for-the-badge&logo=ea&logoColor=black" />
+  <img src="https://img.shields.io/badge/WWE_2K-000000?style=for-the-badge&logo=2k&logoColor=white" />
+  <img src="https://img.shields.io/badge/WWE-FFD700?style=for-the-badge&logo=wwe&logoColor=black" />
+  <img src="https://img.shields.io/badge/WWE_2K24-C41E3A?style=for-the-badge&logo=2k&logoColor=white" />
 </div>
 
 <br>
