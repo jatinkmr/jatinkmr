@@ -141,6 +141,10 @@
   <img src="https://img.shields.io/badge/Vector-FF4500?style=for-the-badge&logo=nekki&logoColor=white" />
   <img src="https://img.shields.io/badge/Chess-FFFFFF?style=for-the-badge&logo=chess.com&logoColor=black" />
   <img src="https://img.shields.io/badge/Dragon_Ball_Legends-FF8C00?style=for-the-badge&logo=bandai-namco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Red_Dead_Redemption_2-8B0000?style=for-the-badge&logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cyberpunk_2077-FFD700?style=for-the-badge&logo=cdprojekt&logoColor=black" />
+  <img src="https://img.shields.io/badge/Mad_Max-696969?style=for-the-badge&logo=warnerbros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Resident_Evil_7-000000?style=for-the-badge&logo=capcom&logoColor=white" />
 </div>
 
 <br>
