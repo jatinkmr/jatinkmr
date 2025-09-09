@@ -133,6 +133,14 @@
   <img src="https://img.shields.io/badge/WWE_2K-000000?style=for-the-badge&logo=2k&logoColor=white" />
   <img src="https://img.shields.io/badge/WWE-FFD700?style=for-the-badge&logo=wwe&logoColor=black" />
   <img src="https://img.shields.io/badge/WWE_2K24-C41E3A?style=for-the-badge&logo=2k&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tekken_Tag-FF6B00?style=for-the-badge&logo=bandai-namco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Assassin's_Creed-000000?style=for-the-badge&logo=ubisoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Grand_Theft_Auto-000000?style=for-the-badge&logo=rockstargames&logoColor=white" />
+  <img src="https://img.shields.io/badge/Shadow_Fight-8B0000?style=for-the-badge&logo=nekki&logoColor=white" />
+  <img src="https://img.shields.io/badge/Asphalt-1E90FF?style=for-the-badge&logo=gameloft&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vector-FF4500?style=for-the-badge&logo=nekki&logoColor=white" />
+  <img src="https://img.shields.io/badge/Chess-FFFFFF?style=for-the-badge&logo=chess.com&logoColor=black" />
+  <img src="https://img.shields.io/badge/Dragon_Ball_Legends-FF8C00?style=for-the-badge&logo=bandai-namco&logoColor=white" />
 </div>
 
 <br>
