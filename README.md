@@ -145,6 +145,8 @@
   <img src="https://img.shields.io/badge/Cyberpunk_2077-FFD700?style=for-the-badge&logo=cdprojekt&logoColor=black" />
   <img src="https://img.shields.io/badge/Mad_Max-696969?style=for-the-badge&logo=warnerbros&logoColor=white" />
   <img src="https://img.shields.io/badge/Resident_Evil_7-000000?style=for-the-badge&logo=capcom&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pac_Man-FFFF00?style=for-the-badge&logo=namco&logoColor=black" />
+  <img src="https://img.shields.io/badge/Granny_Nightmare-8B0000?style=for-the-badge&logo=ghost&logoColor=white" />
 </div>
 
 <br>
