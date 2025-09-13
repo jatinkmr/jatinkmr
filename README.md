@@ -119,6 +119,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" />
   <img src="https://img.shields.io/badge/Tekken-FF0000?style=for-the-badge&logo=bandai-namco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tekken%20Tag%20Tournament%20Game-orange?style=for-the-badge&logo=gamepad&logoColor=white" />
   <img src="https://img.shields.io/badge/BGMI-FFC414?style=for-the-badge&logo=pubg&logoColor=black" />
   <img src="https://img.shields.io/badge/Call_of_Duty-000000?style=for-the-badge&logo=activision&logoColor=white" />
   <img src="https://img.shields.io/badge/Street_Fighter-000080?style=for-the-badge&logo=capcom&logoColor=white" />
@@ -146,6 +147,7 @@
   <img src="https://img.shields.io/badge/Mad_Max-696969?style=for-the-badge&logo=warnerbros&logoColor=white" />
   <img src="https://img.shields.io/badge/Resident_Evil_7-000000?style=for-the-badge&logo=capcom&logoColor=white" />
   <img src="https://img.shields.io/badge/Pac_Man-FFFF00?style=for-the-badge&logo=namco&logoColor=black" />
+  <img src="https://img.shields.io/badge/Prince%20of%20Persia-0078D4?style=for-the-badge&logo=ubisoft&logoColor=white" />
   <img src="https://img.shields.io/badge/Granny_Nightmare-8B0000?style=for-the-badge&logo=ghost&logoColor=white" />
 </div>
 
