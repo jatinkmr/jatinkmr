@@ -30,6 +30,7 @@
   <h3>🧑‍💻 About Me</h3>
   <p align="left">
     I'm a passionate MERN Stack Developer who thrives on building scalable and efficient web applications. When I'm not coding, you'll find me exploring new coffee spots or debugging life's little mysteries!
+    What Drives Me:
     <br><br>
     💻 Currently building awesome web experiences<br>
     🚀 Always exploring new technologies<br>
@@ -37,6 +38,9 @@
     ☕ Powered by premium coffee<br>
     🐞 Finding and squashing bugs 24/7
   </p>
+  My Approach:
+  I believe in writing clean, maintainable code that not only works but tells a story. Every project is an opportunity to learn, grow, and push the boundaries of what's possible with modern web technologies.
+  <br clear="right"/>
 </div>
 
 ## 🚀 What I Do?
