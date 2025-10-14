@@ -49,7 +49,14 @@
 ## 🚀 What I Do?
 
 <div align="center">
-  <img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+  <picture>
+    <source media="(max-width: 768px)" srcset="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="100%">
+    <img 
+      src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" 
+      alt="GIF" 
+      height="270px" 
+      align="right">
+  </picture>
 
   <p align="left">
     🧑🏻‍💻 Craft clean, modular, and maintainable code.<br />
