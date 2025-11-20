@@ -220,6 +220,9 @@
   <a href="https://linktr.ee/jatinkmrkamboj" target="_blank">
     <img alt="Linktree" src="https://img.shields.io/badge/Linktree-43E55E.svg?style=for-the-badge&logo=Linktree&logoColor=black" />
   </a>
+  <a href="https://www.youtube.com/@JatinKumarKamboj" target="_blank">
+    <img alt="YoouTube" src="https://img.shields.io/badge/YouTube-222222?style=for-the-badge&logo=youtube&logoColor=red" />
+  </a>
 </div>
 
 <br>
