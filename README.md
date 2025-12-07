@@ -238,6 +238,11 @@
   <img src="https://readme-jokes.vercel.app/api" alt="Error fetching resource, Refresh again to view Jokes Card" width="100%">
 </div>
 
+## Contribution Snake
+<p align="center">
+  <img src="https://github.com/jatinkmr/jatinkmr/blob/refs/heads/main/dist/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
+
 <div align="center">
   <h3>
     <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
