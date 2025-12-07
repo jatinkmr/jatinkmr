@@ -181,10 +181,10 @@
 <br>
 
 ## 📊 Coding Stats
-<div align="center">
+<!-- <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=jatinkmr&show_icons=true&theme=radical" alt="GitHub Stats" width="48%">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jatinkmr&layout=compact&theme=radical" alt="Top Languages" width="48%">
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jatinkmr&theme=radical" width="100%">
